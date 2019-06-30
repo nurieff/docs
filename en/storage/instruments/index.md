@@ -10,4 +10,5 @@
 | [Cyberduck](cyberduck.md) | File browser |
 | [S3cmd](s3cmd.md) | Сommand-line interface |
 | [s3fs](s3fs.md) | Utility to mount buckets through FUSE |
+| [MinIO Client](minio-client.md) | Simple command-line interface |
 

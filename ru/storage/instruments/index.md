@@ -10,6 +10,7 @@
 [Cyberduck](cyberduck.md) | Файловый браузер 
 [S3cmd](s3cmd.md) | Интерфейс командной строки
 [s3fs](s3fs.md) | Программа для подключения бакетов через FUSE
+[MinIO Client](minio-client.md) | Простой интерфейс командной строки
 
 
 
