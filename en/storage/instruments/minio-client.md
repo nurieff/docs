@@ -63,7 +63,7 @@ mc rm yandex-cloud/<bucket>/object
 ```
 
 
-### Synchronize contents
+### Synchronizing
 
 ```bash
 mc mirror localdir/ yandex-cloud/<bucket>/dir/
